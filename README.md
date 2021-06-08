@@ -14,3 +14,7 @@ Watch tutorial on YouTube
 
 
 change the file in the feature-test branch
+
+## This is the change made on feature branch
+
+this will made the merge conflict
